@@ -1,0 +1,6 @@
+{
+  "name": "Math Quiz Generator for 6th Grade",
+  "description": "App to generate a 12-question mathematics test in Google Forms for 6th grade based on the Ister textbook.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
